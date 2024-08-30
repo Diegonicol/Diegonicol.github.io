@@ -1,0 +1,35 @@
+{
+  "name": "binance-orders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bybit-api": "^3.10.11",
+    "ccxt": "^4.3.65",
+    "chalk": "^5.3.0",
+    "cli-color": "^2.0.4",
+    "cli-table3": "^0.6.5",
+    "csv-parse": "^5.5.6",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21",
+    "mathjs": "^13.0.3",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "node-binance-api": "^0.13.1",
+    "simple-statistics": "^7.8.3",
+    "technicalindicators": "^3.1.0",
+    "tesseract.js": "^5.1.0",
+    "ws": "^8.18.0"
+  }
+}
